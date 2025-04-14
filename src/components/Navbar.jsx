@@ -23,7 +23,7 @@ export default function Navbar() {
           <Link to="/properties">Properties</Link>
         </li>
         <li className="hover:text-orange-600 duration-500">
-          <Link to="/contact">Contact Us</Link>
+          <Link to="/contactus">Contact Us</Link>
         </li>
         <li className="hover:text-orange-600 duration-500">
           <Link to="/pages">Pages</Link>
