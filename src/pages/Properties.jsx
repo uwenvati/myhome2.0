@@ -61,7 +61,7 @@ const Properties = () => {
     <div className="properties-page">
       
       {/* Hero Section */}
-      <div className="bg-[#0a2a20] text-white py-16 px-8 md:px-10">
+      <div className="bg-darkGreen text-white py-16 px-8 md:px-10">
         <div className="flex items-center space-x-2 text-sm mb-4">
           <Link to="/" className="hover:underline">Home</Link>
           <span>/</span>
